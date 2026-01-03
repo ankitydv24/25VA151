@@ -1,0 +1,25 @@
+
+        .Box {
+            text-align:center;
+            text-transform:uppercase;
+            width:100px;
+            padding:50px;
+            margin:10px;
+            color:brown;
+            border:5px solid black;
+            background-color:lightgrey;
+           
+
+
+        }
+        #CSE-13 {text-align:center;
+            text-transform:lowercase;
+            width:100px;
+            padding:10px;
+            margin:10px;
+            color:brown;
+            border:5px solid yellow;
+            background-color:blanchedalmond;
+
+        }
+    
